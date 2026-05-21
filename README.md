@@ -17,7 +17,7 @@ This project uses [uv](https://docs.astral.sh/uv/) for dependency management ins
 
 ### 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/dev-satyamjha/Trade_Bot.git
 cd Trade_Bot
 ```
 
