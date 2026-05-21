@@ -1,0 +1,12 @@
+[project]
+name = "prime-trade"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-binance>=1.0.36",
+    "python-dotenv>=1.2.2",
+    "rich>=15.0.0",
+    "typer>=0.25.1",
+]
